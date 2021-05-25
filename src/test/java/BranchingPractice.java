@@ -4,6 +4,8 @@ public class BranchingPractice {
         // enabled version control
         // added .gitignore with .idea, target folder and .iml file
         // made initial commit
+        //
+        // reviewing on new branch
 
     }
 
